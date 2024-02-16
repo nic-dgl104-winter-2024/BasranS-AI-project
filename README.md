@@ -37,8 +37,56 @@ Ensure that the app has necessary device permissions for optimal functionality.
 
 ![menu page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/7b989c06-c927-4b43-96ff-6371e78e57d1)
 
+## Blocks
 
+### First screen 
 
+<img width="414" alt="blocks" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/3a3d47f1-80b8-4fd3-81ce-0ffeea154d05">
+
+<img width="405" alt="blocks (1)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/8371ba8c-d13b-4821-818a-fadb20766111">
+
+### Signup 
+
+<img width="383" alt="blocks (2)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/506a6bb9-846a-4513-9962-e0ed4de1f283">
+
+<img width="729" alt="blocks (3)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/1f434582-b0e2-4600-bb30-2091e5028011">
+
+<img width="630" alt="blocks (4)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/b0f5e289-6cbb-41b1-97de-9253869d4470">
+
+### Login 
+
+<img width="383" alt="blocks (5)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/4c20af00-8bc7-4a24-a49d-ad026e110d1b">
+
+<img width="452" alt="blocks (6)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/c6d0eb42-ca6a-4241-89a2-13f29550d5e8">
+
+<img width="566" alt="blocks (7)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/b6db9968-0b87-40e5-aef6-02a2974f0786">
+
+### Main page
+
+<img width="383" alt="blocks (8)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/820df6e9-c808-4cbb-ac8c-adde810c8faa">
+
+<img width="365" alt="blocks (9)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/177a9f5f-a35a-4f31-8a30-b60e39849c49">
+
+<img width="365" alt="blocks (10)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/08fa4666-79b5-4e25-bca6-781828c6b868">
+
+<img width="365" alt="blocks (11)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/92c3884f-59cd-4985-a3fa-5ed89a925a89">
+
+### Menu page 
+
+<img width="400" alt="blocks (12)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/68efa3b5-c6d9-49d8-9848-635d11e7f4f2">
+
+<img width="502" alt="blocks (13)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/b7df0fb7-ca52-4a06-a133-6e8397a27526">
+
+<img width="502" alt="blocks (14)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/443d8624-f399-4957-990c-945d5b41dc28">
+
+<img width="502" alt="blocks (15)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/9a9d3fd8-ed35-4641-921f-04080c335393">
+
+## Summary
+Simply Eats is a user-friendly online food ordering app developed with MIT App Inventor. Users can easily discover local restaurants, navigate menus, and select items with transparent pricing. The app's intuitive interface and CloudDB integration offer a seamless experience, allowing data synchronization across devices. Ensure proper device permissions for optimal functionality.
+
+## Built With:
+
+<img width="245" alt="mit" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/f089747c-a620-437b-9885-cfbc00cc38c5">
 
 
 
