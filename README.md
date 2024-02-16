@@ -81,6 +81,20 @@ Ensure that the app has necessary device permissions for optimal functionality.
 
 <img width="502" alt="blocks (15)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/9a9d3fd8-ed35-4641-921f-04080c335393">
 
+## Summary
+Simply Eats is a user-friendly online food ordering app developed with MIT App Inventor. Users can easily discover local restaurants, navigate menus, and select items with transparent pricing. The app's intuitive interface and CloudDB integration offer a seamless experience, allowing data synchronization across devices. Ensure proper device permissions for optimal functionality.
+
+## Built With:
+
+<img width="245" alt="mit" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/f089747c-a620-437b-9885-cfbc00cc38c5">
+
+
+
+
+
+
+
+
 
   
 
