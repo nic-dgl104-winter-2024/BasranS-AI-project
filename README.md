@@ -31,11 +31,15 @@ Ensure that the app has necessary device permissions for optimal functionality.
 
 ### Main page
 
-![main page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/5a3b8a41-ad4d-4e5e-ba39-2ac58fed8c00)
+![main page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/47384aa8-7f28-4783-ab55-506fb9c31c42)
 
 ### Menu
 
-![menu page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/e2b8a8ba-3d83-4b88-ac35-0671557a1a45)
+![menu page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/7b989c06-c927-4b43-96ff-6371e78e57d1)
+
+
+
+
 
 
 
