@@ -122,8 +122,6 @@ https://www.youtube.com/watch?v=lEpDG2Od7nc&t=1109s
 
 https://www.youtube.com/watch?v=nW_nfbSPDj8&t=712s
 
-https://www.youtube.com/watch?v=Cmy0VueB1zc&t=141s
-
 https://www.youtube.com/watch?v=FrGjSomKBoY&t=114s
 
 Open AI: https://platform.openai.com/docs/models/chatgpt
