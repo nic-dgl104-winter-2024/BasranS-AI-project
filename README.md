@@ -15,22 +15,27 @@ Ensure that the app has necessary device permissions for optimal functionality.
 
 ## Screens
 ### App starting Screen
+This screen contains two buttons from which user can decide to move further with login or signup with all validations and verification of credentials.
 
 ![screen1](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/7cb6b8b4-e546-4428-b799-29690cba9ca7)
 
 ### Login Page
+If user choose to go with login ,then theis screen comes further where all validations required to succeed to go for the main page of restaurants.
 
 ![login screen](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/6aa70bea-b9dc-48c9-a768-07aee7e455da)
 
 ### Signup page
+On this page user will get the option to create a new account with simply eats where all credentials required to put as inputs, then it redirects the user to the main page.
 
 ![signup screen](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/4a6a5779-8388-49f5-961e-400e1daa8cdf)
 
 ### Main page
+This screen contains some restaurant options with their cuisine and ratings d information to choose from.
 
 ![main page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/47384aa8-7f28-4783-ab55-506fb9c31c42)
 
 ### Menu
+This is the menu page where user will get some options of food dishes to order from. Also the price of every dish is mentioned in it. Whenever user clicks on the add to order button it will shows in the cart label.
 
 ![menu page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/7b989c06-c927-4b43-96ff-6371e78e57d1)
 
