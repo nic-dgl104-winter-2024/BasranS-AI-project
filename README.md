@@ -1,6 +1,6 @@
-# BasranS-AI-project
-## Simply Eats - Online Food Ordering App
-Simply Eats is an online food ordering app developed using MIT App Inventor. This application allows users to explore local restaurants, view menus, select items with associated prices,.
+# Simply Eats - Online Food Ordering App
+Welcome to Simply Eats, the go-to app for hassle-free and convenient food ordering! Developed on MIT App Inventor, This app is designed to simplify the way you order delicious meals without the need for complicated location tracking. Our app is centered around the MIT CloudDB, ensuring seamless data management and enhanced user experience. Simply Eats allows users to explore local restaurants, view menus, select items with associated prices,.
+
 ## IMPORTANT NOTE
 Ensure that the app has necessary device permissions for optimal functionality.
 
@@ -84,9 +84,10 @@ Ensure that the app has necessary device permissions for optimal functionality.
 ## Summary
 Simply Eats is a user-friendly online food ordering app developed with MIT App Inventor. Users can easily discover local restaurants, navigate menus, and select items with transparent pricing. The app's intuitive interface and CloudDB integration offer a seamless experience, allowing data synchronization across devices. Ensure proper device permissions for optimal functionality.
 
-## Built With:
 
-<img width="245" alt="mit" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/f089747c-a620-437b-9885-cfbc00cc38c5">
+
+
+
 
 
 
