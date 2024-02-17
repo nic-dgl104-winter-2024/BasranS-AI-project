@@ -16,7 +16,7 @@ Ensure that the app has necessary device permissions for optimal functionality.
 * User Interface: Button, Notifier, Label, Images
 * Storage: CloudDB
 * Layout: HorizontalArrangement, VerticalArrangement
-* Icons: Flaticon 
+* Icons: Flaticon
 ### CloudDB
 MIT App Inventor's CloudDB is a cloud-based database service that allows mobile app developers to store and retrieve data in real-time. It serves as a convenient solution for managing app data without the need for complex server setups.
 
@@ -94,6 +94,24 @@ This is the menu page where user will get some options of food dishes to order f
 
 ## Summary
 Simply Eats is a user-friendly online food ordering app developed with MIT App Inventor. Users can easily discover local restaurants, navigate menus, and select items with transparent pricing. The app's intuitive interface and CloudDB integration offer a seamless experience, allowing data synchronization across devices. Ensure proper device permissions for optimal functionality.
+
+## Acknowledgement
+ 
+Built with: https://appinventor.mit.edu/
+
+Code Blocks and layout: https://www.youtube.com/watch?v=KjRDYMg8v2A
+
+https://www.youtube.com/watch?v=lEpDG2Od7nc&t=1109s
+
+https://www.youtube.com/watch?v=nW_nfbSPDj8&t=712s
+
+https://www.youtube.com/watch?v=Cmy0VueB1zc&t=141s
+
+https://www.youtube.com/watch?v=FrGjSomKBoY&t=114s
+
+Open AI: https://platform.openai.com/docs/models/chatgpt
+
+Icons:  https://www.flaticon.com/
 
 
 
