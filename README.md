@@ -12,6 +12,16 @@ Ensure that the app has necessary device permissions for optimal functionality.
 ### CloudDB Integration
 * The app utilizes CloudDB in MIT App Inventor for storing and retrieving data.
 * Data synchronization ensures a seamless experience across multiple devices for users.
+##  Components used in my application
+* User Interface: Button, Notifier, Label, Images
+* Storage: CloudDB
+* Layout: HorizontalArrangement, VerticalArrangement
+* Icons: Flaticon 
+### CloudDB
+MIT App Inventor's CloudDB is a cloud-based database service that allows mobile app developers to store and retrieve data in real-time. It serves as a convenient solution for managing app data without the need for complex server setups.
+
+### Testing and Debugging
+I've conducted comprehensive testing of all the features in this app on an actual mobile device through the MIT AI2 Companion app. Any bugs or issues that arose during testing have been successfully addressed and resolved.
 
 ## Screens
 ### App starting Screen
@@ -39,8 +49,7 @@ This is the menu page where user will get some options of food dishes to order f
 
 ![menu page](https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/7b989c06-c927-4b43-96ff-6371e78e57d1)
 
-## Blocks
-
+## All Block Images
 ### First screen 
 
 <img width="414" alt="blocks" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/3a3d47f1-80b8-4fd3-81ce-0ffeea154d05">
