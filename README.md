@@ -28,12 +28,17 @@ Open AI: https://chat.openai.com/
 ### CloudDB
 MIT App Inventor's CloudDB is a cloud-based database service that allows mobile app developers to store and retrieve data in real-time. It serves as a convenient solution for managing app data without the need for complex server setups.
 
-### Testing and Debugging
-I've conducted comprehensive testing of all the features in this app on an actual mobile device through the MIT AI2 Companion app. Any bugs or issues that arose during testing have been successfully addressed and resolved.
-## Summary details of code review
-The app code review was conducted by Baljit Singh. He said the app is well-structured and the use of MIT Inventor CloudDB for data storage is appropriate for a simple application like this.
+## Summary details of Development Process
+Planning: Initially, i just started using MIT app inventor to learn the basics of this platform. Then, I built a image classification app to follow a tutorial of MIT app inventor and push in github. After that, I saw some youtube tutorials and get an idea for my project.
 
-Code is generally readable, and variable and function names are descriptive with logical flow of the application which is easy to follow, enhancing maintainability.
+Designing: Designed wireframes and layout for a user-friendly visual appearance and navigation.
+
+Development: lets you log in or sign up on the main screen. Using MIT App Inventor CloudDB. After login, explore restaurants, click for menus, and add dishes to your cart. Test code and welcome feedback for continuous improvements in the app's look and functionality.
+
+Testing: I've conducted comprehensive testing of all the features in this app on an actual mobile device through the MIT AI2 Companion app. Any bugs or issues that arose during testing have been successfully addressed and resolved.
+
+## Summary details of code review
+The app code review was conducted by Baljit Singh. He said the app is well-structured and the use of MIT Inventor CloudDB for data storage is appropriate for a simple application like this. Code is generally readable, and variable and function names are descriptive with logical flow of the application which is easy to follow, enhancing maintainability.
 
 ## Screens
 ### App starting Screen
