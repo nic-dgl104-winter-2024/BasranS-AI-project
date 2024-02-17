@@ -39,7 +39,7 @@ Testing: I've conducted comprehensive testing of all the features in this app on
 
 ## Summary details of code review
 The app code review was conducted by Baljit Singh. He said the app is well-structured and the use of MIT Inventor CloudDB for data storage is appropriate for a simple application like this. Code is generally readable, and variable and function names are descriptive with logical flow of the application which is easy to follow, enhancing maintainability.
-
+Baljit address a bug with the login page. The inputs are working properly according to the stored data in clouddb but it goes further with or without inputs. The other pages are working properly.
 ## Screens
 ### App starting Screen
 This screen contains two buttons from which user can decide to move further with login or signup with all validations and verification of credentials.
