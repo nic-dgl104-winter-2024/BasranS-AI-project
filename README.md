@@ -1,17 +1,14 @@
 # Simply Eats - Online Food Ordering App
 Welcome to Simply Eats, the go-to app for hassle-free and convenient food ordering! Developed on MIT App Inventor, This app is designed to simplify the way you order delicious meals without the need for complicated location tracking. Our app is centered around the MIT CloudDB, ensuring seamless data management and enhanced user experience. Simply Eats allows users to explore local restaurants, view menus, select items with associated prices,.
-
 ## IMPORTANT NOTE
 Ensure that the app has necessary device permissions for optimal functionality.
-
 ## Key Features
-### Restaurant Search
+### User-Friendly Interface: 
+* Simply Eats boasts an intuitive and easy-to-navigate interface making it simple for users to browse.
+### Restaurant Search and Menu Selection 
 * Users can explore a list of restaurants available in the app.
-  
-### Menu Selection
 * Intuitive user interface for selecting desired food items from the menu.
 * Clear display of prices alongside each food item for transparent ordering.
-
 ### CloudDB Integration
 * The app utilizes CloudDB in MIT App Inventor for storing and retrieving data.
 * Data synchronization ensures a seamless experience across multiple devices for users.
