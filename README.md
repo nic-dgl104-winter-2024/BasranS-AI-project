@@ -66,11 +66,11 @@ This is the menu page where user will get some options of food dishes to order f
 
 ### Login 
 
+<img width="615" alt="blocks (16)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/c132d3f1-4f4f-40a7-b94e-1dd800d2da3c">
+
 <img width="383" alt="blocks (5)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/4c20af00-8bc7-4a24-a49d-ad026e110d1b">
 
-<img width="452" alt="blocks (6)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/c6d0eb42-ca6a-4241-89a2-13f29550d5e8">
-
-<img width="566" alt="blocks (7)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/b6db9968-0b87-40e5-aef6-02a2974f0786">
+<img width="479" alt="blocks (17)" src="https://github.com/nic-dgl104-winter-2024/BasranS-AI-project/assets/144393592/a162bb05-1048-466e-8d0c-fa6e5335c599">
 
 ### Main page
 
